@@ -135,7 +135,7 @@ The eight SQL queries were developed and executed in Databricks. They cover the 
 
 All eight SQL queries for this project were developed and executed in a Databricks notebook. The notebook contains the SQL code used to answer the eight business questions, along with the query results.
 
-Databricks Notebook: [View the Sizwe Coffee SQL Analysis](https://dbc-1cc9b478-5b5f.cloud.databricks.com/editor/notebooks/3235027065002453?contextId=sql-editor&o=7474654150891136#command/8791062516520395)
+Databricks Notebook: https://github.com/YamkelaCenenda/WitleAcademyProject-/blob/main/queries.sql.ipynb
 
 ## Steps to Run the Project
 
